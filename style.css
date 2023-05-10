@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+body{
+    background-color: rgb(37, 148, 46);
+    
+}
+
+.produto1{
+    position: absolute;
+    background-color: darkgreen;
+    color: aliceblue;
+    top: 20px;
+    left: 14px;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 110px;
+    height: 64px;
+}
+.p1{
+    position: relative;
+    text-align: center;
+    top: 20px;
+}
+.produto1:hover{
+    background-color: darkblue;
+}
+.produto2{
+    position:absolute;
+    background-color: darkgreen;
+    color: aliceblue;
+    top: 20px;
+    left: 183px;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 110px;
+    height: 64px;
+}
+.p2{
+    position: relative;
+    text-align: center;
+    top: 20px;
+}
+.produto2:hover{
+    background-color: darkblue;
+}
+.produto3{
+    position:absolute;
+    background-color: darkgreen;
+    color: aliceblue;
+    top: 20px;
+    left: 346px;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 110px;
+    height: 64px;
+}
+.p3{
+    position: relative;
+    text-align: center;
+    top: 20px;
+}
+.produto3:hover{
+    background-color: darkblue;
+}
